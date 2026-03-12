@@ -10,16 +10,7 @@
 
 <p align="center">
 
-```id="tri0"
-                 ▲
-                ▲ ▲
-               ▲   ▲
-              ▲ ▲ ▲ ▲
-             ▲       ▲
-            ▲ ▲     ▲ ▲
-           ▲   ▲   ▲   ▲
-          ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
-```
+
 
 </p>
 
@@ -54,7 +45,24 @@ status: probably redesigning something that was fine already
 
 <p align="center">
 
-<img src="https://svgshare.com/i/triangle-divider.svg"/>
+<p align="center">
+<svg width="100%" height="20" viewBox="0 0 600 20" xmlns="http://www.w3.org/2000/svg">
+<polygon points="0,20 10,0 20,20" fill="#888"/>
+<polygon points="40,20 50,0 60,20" fill="#888"/>
+<polygon points="80,20 90,0 100,20" fill="#888"/>
+<polygon points="120,20 130,0 140,20" fill="#888"/>
+<polygon points="160,20 170,0 180,20" fill="#888"/>
+<polygon points="200,20 210,0 220,20" fill="#888"/>
+<polygon points="240,20 250,0 260,20" fill="#888"/>
+<polygon points="280,20 290,0 300,20" fill="#888"/>
+<polygon points="320,20 330,0 340,20" fill="#888"/>
+<polygon points="360,20 370,0 380,20" fill="#888"/>
+<polygon points="400,20 410,0 420,20" fill="#888"/>
+<polygon points="440,20 450,0 460,20" fill="#888"/>
+<polygon points="480,20 490,0 500,20" fill="#888"/>
+<polygon points="520,20 530,0 540,20" fill="#888"/>
+</svg>
+</p>
 
 </p>
 
@@ -82,7 +90,24 @@ other:
 
 <p align="center">
 
-<img src="https://svgshare.com/i/triangle-divider.svg"/>
+<p align="center">
+<svg width="100%" height="20" viewBox="0 0 600 20" xmlns="http://www.w3.org/2000/svg">
+<polygon points="0,20 10,0 20,20" fill="#888"/>
+<polygon points="40,20 50,0 60,20" fill="#888"/>
+<polygon points="80,20 90,0 100,20" fill="#888"/>
+<polygon points="120,20 130,0 140,20" fill="#888"/>
+<polygon points="160,20 170,0 180,20" fill="#888"/>
+<polygon points="200,20 210,0 220,20" fill="#888"/>
+<polygon points="240,20 250,0 260,20" fill="#888"/>
+<polygon points="280,20 290,0 300,20" fill="#888"/>
+<polygon points="320,20 330,0 340,20" fill="#888"/>
+<polygon points="360,20 370,0 380,20" fill="#888"/>
+<polygon points="400,20 410,0 420,20" fill="#888"/>
+<polygon points="440,20 450,0 460,20" fill="#888"/>
+<polygon points="480,20 490,0 500,20" fill="#888"/>
+<polygon points="520,20 530,0 540,20" fill="#888"/>
+</svg>
+</p>
 
 </p>
 
@@ -109,7 +134,24 @@ all made by me.
 ---
 <p align="center">
 
-<img src="https://svgshare.com/i/triangle-divider.svg"/>
+<p align="center">
+<svg width="100%" height="20" viewBox="0 0 600 20" xmlns="http://www.w3.org/2000/svg">
+<polygon points="0,20 10,0 20,20" fill="#888"/>
+<polygon points="40,20 50,0 60,20" fill="#888"/>
+<polygon points="80,20 90,0 100,20" fill="#888"/>
+<polygon points="120,20 130,0 140,20" fill="#888"/>
+<polygon points="160,20 170,0 180,20" fill="#888"/>
+<polygon points="200,20 210,0 220,20" fill="#888"/>
+<polygon points="240,20 250,0 260,20" fill="#888"/>
+<polygon points="280,20 290,0 300,20" fill="#888"/>
+<polygon points="320,20 330,0 340,20" fill="#888"/>
+<polygon points="360,20 370,0 380,20" fill="#888"/>
+<polygon points="400,20 410,0 420,20" fill="#888"/>
+<polygon points="440,20 450,0 460,20" fill="#888"/>
+<polygon points="480,20 490,0 500,20" fill="#888"/>
+<polygon points="520,20 530,0 540,20" fill="#888"/>
+</svg>
+</p>
 
 </p>
 
@@ -160,7 +202,24 @@ most of the icons and visual stuff around our projects follow the same triangle/
 
 <p align="center">
 
-<img src="https://svgshare.com/i/triangle-divider.svg"/>
+<p align="center">
+<svg width="100%" height="20" viewBox="0 0 600 20" xmlns="http://www.w3.org/2000/svg">
+<polygon points="0,20 10,0 20,20" fill="#888"/>
+<polygon points="40,20 50,0 60,20" fill="#888"/>
+<polygon points="80,20 90,0 100,20" fill="#888"/>
+<polygon points="120,20 130,0 140,20" fill="#888"/>
+<polygon points="160,20 170,0 180,20" fill="#888"/>
+<polygon points="200,20 210,0 220,20" fill="#888"/>
+<polygon points="240,20 250,0 260,20" fill="#888"/>
+<polygon points="280,20 290,0 300,20" fill="#888"/>
+<polygon points="320,20 330,0 340,20" fill="#888"/>
+<polygon points="360,20 370,0 380,20" fill="#888"/>
+<polygon points="400,20 410,0 420,20" fill="#888"/>
+<polygon points="440,20 450,0 460,20" fill="#888"/>
+<polygon points="480,20 490,0 500,20" fill="#888"/>
+<polygon points="520,20 530,0 540,20" fill="#888"/>
+</svg>
+</p>
 
 </p>
 
@@ -181,7 +240,24 @@ it should be...
 
 <p align="center">
 
-<img src="https://svgshare.com/i/triangle-divider.svg"/>
+<p align="center">
+<svg width="100%" height="20" viewBox="0 0 600 20" xmlns="http://www.w3.org/2000/svg">
+<polygon points="0,20 10,0 20,20" fill="#888"/>
+<polygon points="40,20 50,0 60,20" fill="#888"/>
+<polygon points="80,20 90,0 100,20" fill="#888"/>
+<polygon points="120,20 130,0 140,20" fill="#888"/>
+<polygon points="160,20 170,0 180,20" fill="#888"/>
+<polygon points="200,20 210,0 220,20" fill="#888"/>
+<polygon points="240,20 250,0 260,20" fill="#888"/>
+<polygon points="280,20 290,0 300,20" fill="#888"/>
+<polygon points="320,20 330,0 340,20" fill="#888"/>
+<polygon points="360,20 370,0 380,20" fill="#888"/>
+<polygon points="400,20 410,0 420,20" fill="#888"/>
+<polygon points="440,20 450,0 460,20" fill="#888"/>
+<polygon points="480,20 490,0 500,20" fill="#888"/>
+<polygon points="520,20 530,0 540,20" fill="#888"/>
+</svg>
+</p>
 
 </p>
 
@@ -205,7 +281,24 @@ or at least try to.
 
 <p align="center">
 
-<img src="https://svgshare.com/i/triangle-divider.svg"/>
+<p align="center">
+<svg width="100%" height="20" viewBox="0 0 600 20" xmlns="http://www.w3.org/2000/svg">
+<polygon points="0,20 10,0 20,20" fill="#888"/>
+<polygon points="40,20 50,0 60,20" fill="#888"/>
+<polygon points="80,20 90,0 100,20" fill="#888"/>
+<polygon points="120,20 130,0 140,20" fill="#888"/>
+<polygon points="160,20 170,0 180,20" fill="#888"/>
+<polygon points="200,20 210,0 220,20" fill="#888"/>
+<polygon points="240,20 250,0 260,20" fill="#888"/>
+<polygon points="280,20 290,0 300,20" fill="#888"/>
+<polygon points="320,20 330,0 340,20" fill="#888"/>
+<polygon points="360,20 370,0 380,20" fill="#888"/>
+<polygon points="400,20 410,0 420,20" fill="#888"/>
+<polygon points="440,20 450,0 460,20" fill="#888"/>
+<polygon points="480,20 490,0 500,20" fill="#888"/>
+<polygon points="520,20 530,0 540,20" fill="#888"/>
+</svg>
+</p>
 
 </p>
 
@@ -221,7 +314,24 @@ or at least try to.
 
 <p align="center">
 
-<img src="https://svgshare.com/i/triangle-divider.svg"/>
+<p align="center">
+<svg width="100%" height="20" viewBox="0 0 600 20" xmlns="http://www.w3.org/2000/svg">
+<polygon points="0,20 10,0 20,20" fill="#888"/>
+<polygon points="40,20 50,0 60,20" fill="#888"/>
+<polygon points="80,20 90,0 100,20" fill="#888"/>
+<polygon points="120,20 130,0 140,20" fill="#888"/>
+<polygon points="160,20 170,0 180,20" fill="#888"/>
+<polygon points="200,20 210,0 220,20" fill="#888"/>
+<polygon points="240,20 250,0 260,20" fill="#888"/>
+<polygon points="280,20 290,0 300,20" fill="#888"/>
+<polygon points="320,20 330,0 340,20" fill="#888"/>
+<polygon points="360,20 370,0 380,20" fill="#888"/>
+<polygon points="400,20 410,0 420,20" fill="#888"/>
+<polygon points="440,20 450,0 460,20" fill="#888"/>
+<polygon points="480,20 490,0 500,20" fill="#888"/>
+<polygon points="520,20 530,0 540,20" fill="#888"/>
+</svg>
+</p>
 
 </p>
 
@@ -239,7 +349,24 @@ or at least try to.
 
 <p align="center">
 
-<img src="https://svgshare.com/i/triangle-divider.svg"/>
+<p align="center">
+<svg width="100%" height="20" viewBox="0 0 600 20" xmlns="http://www.w3.org/2000/svg">
+<polygon points="0,20 10,0 20,20" fill="#888"/>
+<polygon points="40,20 50,0 60,20" fill="#888"/>
+<polygon points="80,20 90,0 100,20" fill="#888"/>
+<polygon points="120,20 130,0 140,20" fill="#888"/>
+<polygon points="160,20 170,0 180,20" fill="#888"/>
+<polygon points="200,20 210,0 220,20" fill="#888"/>
+<polygon points="240,20 250,0 260,20" fill="#888"/>
+<polygon points="280,20 290,0 300,20" fill="#888"/>
+<polygon points="320,20 330,0 340,20" fill="#888"/>
+<polygon points="360,20 370,0 380,20" fill="#888"/>
+<polygon points="400,20 410,0 420,20" fill="#888"/>
+<polygon points="440,20 450,0 460,20" fill="#888"/>
+<polygon points="480,20 490,0 500,20" fill="#888"/>
+<polygon points="520,20 530,0 540,20" fill="#888"/>
+</svg>
+</p>
 
 </p>
 
@@ -253,7 +380,24 @@ or at least try to.
 
 <p align="center">
 
-<img src="https://svgshare.com/i/triangle-divider.svg"/>
+<p align="center">
+<svg width="100%" height="20" viewBox="0 0 600 20" xmlns="http://www.w3.org/2000/svg">
+<polygon points="0,20 10,0 20,20" fill="#888"/>
+<polygon points="40,20 50,0 60,20" fill="#888"/>
+<polygon points="80,20 90,0 100,20" fill="#888"/>
+<polygon points="120,20 130,0 140,20" fill="#888"/>
+<polygon points="160,20 170,0 180,20" fill="#888"/>
+<polygon points="200,20 210,0 220,20" fill="#888"/>
+<polygon points="240,20 250,0 260,20" fill="#888"/>
+<polygon points="280,20 290,0 300,20" fill="#888"/>
+<polygon points="320,20 330,0 340,20" fill="#888"/>
+<polygon points="360,20 370,0 380,20" fill="#888"/>
+<polygon points="400,20 410,0 420,20" fill="#888"/>
+<polygon points="440,20 450,0 460,20" fill="#888"/>
+<polygon points="480,20 490,0 500,20" fill="#888"/>
+<polygon points="520,20 530,0 540,20" fill="#888"/>
+</svg>
+</p>
 
 </p>
 
@@ -267,7 +411,24 @@ i don't even wear hats that much.
 
 <p align="center">
 
-<img src="https://svgshare.com/i/triangle-divider.svg"/>
+<p align="center">
+<svg width="100%" height="20" viewBox="0 0 600 20" xmlns="http://www.w3.org/2000/svg">
+<polygon points="0,20 10,0 20,20" fill="#888"/>
+<polygon points="40,20 50,0 60,20" fill="#888"/>
+<polygon points="80,20 90,0 100,20" fill="#888"/>
+<polygon points="120,20 130,0 140,20" fill="#888"/>
+<polygon points="160,20 170,0 180,20" fill="#888"/>
+<polygon points="200,20 210,0 220,20" fill="#888"/>
+<polygon points="240,20 250,0 260,20" fill="#888"/>
+<polygon points="280,20 290,0 300,20" fill="#888"/>
+<polygon points="320,20 330,0 340,20" fill="#888"/>
+<polygon points="360,20 370,0 380,20" fill="#888"/>
+<polygon points="400,20 410,0 420,20" fill="#888"/>
+<polygon points="440,20 450,0 460,20" fill="#888"/>
+<polygon points="480,20 490,0 500,20" fill="#888"/>
+<polygon points="520,20 530,0 540,20" fill="#888"/>
+</svg>
+</p>
 
 </p>
 
