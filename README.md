@@ -1,20 +1,27 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=cybersecurity+student;vector+design+enjoyer;triangle+architecture+enthusiast;frontend+and+visual+systems" />
-</p>
-
 ---
 
 <p align="center">
 ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼
+<div align="center">
+
+> *"O Earth, what changes hast thou seen?<br>
+> There where the long street roars, hath been<br>
+> The stillness of the central sea<br>
+> The hills are shadows, and they flow<br>
+> From form to form, and nothing stands<br>
+> Like clouds they shape themselves and go..."*  
+
+▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼
+
+---
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=cybersecurity+student;vector+design+enjoyer;triangle+architecture+enthusiast;frontend+and+visual+systems" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ManWithThatHat">
-    <img src="https://github.com/ManWithThatHat.png" width="220" />
-  </a>
 
-<p align="center">
-▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼ ▲ ▼
 </p>
 
 ---
@@ -164,7 +171,7 @@ triangle / vector style system i made for the team.
 
 ```text
 if something can be expressed with fewer lines,
-it should be... kinda ironic since this readme is 221 lines long
+it should be... kinda ironic since this readme is 240 lines long
 ```
 
 ---
@@ -231,13 +238,20 @@ triangles.generated++
 
 ---
 
-
-
-
-
 ```text
 i don't even wear hats that much.
 ```
 <p align="center">
 ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
 </p>
+
+
+<div align="center">
+  
+<p style="text-align:center; font-size:20px;">
+HAHA!! SURPRISE!!! IT IS I, ZILTOID THE OMNISCIENT!!!
+</p>
+
+<img src="https://64.media.tumblr.com/e485aa32b455990f416551258895e9f4/cc99e861b67a79f7-e0/s480x270/ae85daa9a0338b256d9523a5d041ca5d11e8a442.gif" width="420">
+
+</div>
